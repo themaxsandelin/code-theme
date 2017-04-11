@@ -1,0 +1,21 @@
+{
+  "manifest_version": 2,
+  "version": "0.1",
+  "name": "Code theme",
+  "theme": {
+    "images": {},
+    "colors": {
+      "frame": [39, 41, 47],
+      "toolbar": [52, 55, 63],
+      "tab_text": [255, 255, 255],
+      "tab_background_text": [200, 201, 202],
+      "bookmark_text": [200, 201, 202],
+      "ntp_background": [52, 55, 63],
+      "ntp_text": [255, 255, 255],
+      "ntp_header": [39, 41, 47]
+    },
+    "tints": {
+      "buttons": [ 0, 0, 0.86 ]
+    }
+  }
+}
